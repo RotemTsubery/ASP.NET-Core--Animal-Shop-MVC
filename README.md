@@ -1,5 +1,3 @@
-# RotemTsubery-ASP.NET-Core--Animal-Shop-MVC
-
 # 👨🏼‍💼 Admin:
 there is also a option to enter as admin and add animal, delete animal or edit animal .
 
@@ -9,6 +7,7 @@ in my project i used SQL Light with mvc architecture , and asp.net core
 # 🎨 Styling
 for style i used bootsrap
 
+# 🖥 Some ScreenShots
 <img width="1439" alt="צילום מסך 2022-09-10 ב-0 20 39" src="https://user-images.githubusercontent.com/109951474/189447684-a410caec-a36f-4df2-a16c-533891495343.png">
 <img width="1439" alt="צילום מסך 2022-09-10 ב-0 20 51" src="https://user-images.githubusercontent.com/109951474/189447687-e2b7dce8-2e50-4356-821e-c3d468791b0a.png">
 <img width="1439" alt="צילום מסך 2022-09-10 ב-0 21 03" src="https://user-images.githubusercontent.com/109951474/189447690-36ef4682-0fa9-4da0-a476-4c294555f339.png">
