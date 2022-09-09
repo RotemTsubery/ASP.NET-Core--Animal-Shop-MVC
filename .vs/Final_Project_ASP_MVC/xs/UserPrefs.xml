@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{D705314A-2F80-4879-81AB-A2B5EB45CA73}|Default">
+  <MonoDevelop.Ide.ItemProperties.Final__Project__ASP__MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Final_Project_ASP_MVC/Views/Admin/Index.cshtml" line="22" column="33" endLine="22" endColumn="38" offsetX="-1" offsetY="-1" expression="Model" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final_Project_ASP_MVC/Views/Catalogue/Index.cshtml">
+    <Files>
+      <File FileName="Final_Project_ASP_MVC/Repositories/AdminRepository.cs" Line="15" Column="1" />
+      <File FileName="Final_Project_ASP_MVC/Views/Home/Index.cshtml" Line="7" Column="35" />
+      <File FileName="Final_Project_ASP_MVC/Views/Catalogue/Index.cshtml" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final_Project_ASP_MVC" expanded="True">
+            <Node name="Final_Project_ASP_MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Animal" expanded="True" />
+                <Node name="Catalogue" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
